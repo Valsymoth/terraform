@@ -1,0 +1,1 @@
+We will pull our variables and outputs from our main.tf file for a more stateless deployment
